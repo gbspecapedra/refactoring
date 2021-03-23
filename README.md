@@ -1,3 +1,5 @@
+![js]()
+![ts]()
 <h1 align="center">
   refactoring
 </h1>
@@ -27,7 +29,8 @@
 </p>
 
 <p align="center">
-  <img alt="refactoring" src="/">
+  <img alt="from js" src="https://user-images.githubusercontent.com/17882257/112146508-6a634280-8bba-11eb-8eb8-9b3eeb96ac8c.png">
+  <img alt="to ts" src="https://user-images.githubusercontent.com/17882257/112146513-6b946f80-8bba-11eb-8156-1ebae80b4382.png">
 </p>
 
 <br/>
