@@ -1,5 +1,3 @@
-![js]()
-![ts]()
 <h1 align="center">
   refactoring
 </h1>
